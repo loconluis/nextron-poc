@@ -1,0 +1,36 @@
+.quote-container {
+  align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100vw;
+  /* background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%); */
+  background: white;
+  flex-direction: column;
+}
+
+.quote-container_box {
+  background: white;
+  border-radius: 15px;
+  text-align: center;
+  width: 25rem;
+  padding: 3.2rem 1.6rem;
+  box-shadow: 0 10px 60px rgb(242, 244, 245);
+}
+.quote-container_box p{
+  font-size: 20px;
+}
+
+.quote-container_button {
+  margin-top: 10px;
+}
+
+.btn-link:focus {
+  text-decoration: none !important;
+}
+.quote-container_button button:hover {
+  text-decoration: none !important;
+  cursor: pointer;
+}
