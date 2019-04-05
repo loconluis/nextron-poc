@@ -5,8 +5,7 @@ module.exports = withCSS({
   }),
   exportPathMap: async function () {
     return {
-      '/home': { page: '/home' },
-      '/next': { page: '/next' },
+      '/home': { page: '/home' }
     };
   }
 });

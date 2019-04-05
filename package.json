@@ -6,9 +6,9 @@
   "author": "Yoshihide Shiono <shiono.yoshihide@gmail.com>",
   "main": "app/background.js",
   "build": {
-    "appId": "com.example.nextron",
-    "productName": "My Nextron App",
-    "copyright": "Copyright © 2018 Yoshihide Shiono",
+    "appId": "com.quotes.nextron",
+    "productName": "Quotes-app",
+    "copyright": "Copyright © 2019 LoconLuis",
     "directories": {
       "output": "dist",
       "buildResources": "resources"

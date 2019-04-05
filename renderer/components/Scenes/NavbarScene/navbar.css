@@ -1,0 +1,11 @@
+.navbar-position {
+  margin-top: 10px;
+  position: absolute;
+  width: 100vw;
+}
+
+.anchor-navbar {
+  cursor: pointer;
+  margin-right: 15px !important;
+  color: #ff0080 !important;
+}
